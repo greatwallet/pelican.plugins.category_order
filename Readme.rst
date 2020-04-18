@@ -8,6 +8,8 @@ tag). See a live demo `here`_.
 Settings
 ========
 
+- ``CATEGORIES_ORDER``: type: `tuple` or `list` of `str`s; should contain all categories, demonstrating the order of categories.
+
 - ``CATEGORIES_ORDER_BY``: can be ``size``, ``size-rev``, ``alphabetic-rev``
   or ``alphabetic``.
 - ``TAGS_ORDER_BY``: can be ``size``, ``size-rev``, ``alphabetic-rev``
